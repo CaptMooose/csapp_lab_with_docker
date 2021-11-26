@@ -1,7 +1,7 @@
 # csapp_lab_with_docker
 A docker env for csapp lab.
 
-A docker environment setup inspired by XieGuochao's setup, LINK HERE [https://github.com/XieGuochao/csapp](https://github.com/XieGuochao/csapp), using MacBook Air (M1, 2020). I deleted some installation in the Dockerfile to make it more simple, but if you prefer a more versatile environment, be sure to go see his repo.
+A docker environment setup inspired by XieGuochao's setup, LINK HERE [https://github.com/XieGuochao/csapp](https://github.com/XieGuochao/csapp), using MacBook Air (M1, 2020), with OS version: 12.0.1 (21A559). I deleted some installation in the Dockerfile to make it more simple, but if you prefer a more versatile environment, be sure to go see his repo.
 
 # Commands needed
 > The first time to create a container (make sure the current directory is where the Dockerfile at):
